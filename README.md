@@ -1,6 +1,4 @@
-Here’s a solid README introduction for your repository documenting your notes and code from Python for Everybody:
-
-Python for Everybody – Notes & Code
+# Python for Everybody – Notes & Code
 
 📌 Overview
 
